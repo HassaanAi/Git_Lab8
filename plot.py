@@ -1,6 +1,6 @@
 import pandas as pd
 import matplotlib.pyplot as plt
-
+print("changes from Github remotely")
 # Load the dataset
 data = pd.read_csv("Mall_customers.csv")
 
